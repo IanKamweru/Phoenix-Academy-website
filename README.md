@@ -1,2 +1,2 @@
 # Phoenix-Academy-website
-My first website project
+This is a webpage project written in HTML, CSS and JavaScript.
